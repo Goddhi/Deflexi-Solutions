@@ -5,4 +5,4 @@ The solution leverages AWS VPC, Terraform, and Ansible to create a robust and au
 Reflux-Solutions achieved a 90% improvement in application performance, a 30% reduction in operational costs, and ensured 99.9% uptime reliability.
 
 
-![https://github.com/Goddhi/source-code-AUTOMATE-INFRASTRUCTURE-WITH-IAC-USING-TERRAFORM-PART-4](Link to source code implementation)
+![Link to source code implementation](https://github.com/Goddhi/source-code-AUTOMATE-INFRASTRUCTURE-WITH-IAC-USING-TERRAFORM-PART-4)
